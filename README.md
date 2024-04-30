@@ -7,6 +7,7 @@
 - git config user.name
 - git config user.email
 
+Файл конфига /project_work_2/gitconfig
 
 Для любих изменений обязательно(!) заводим тикет в Jira, правило для именования PW2-XXXX, где XXXX циферное обозначение порядкового номера тикета.
 
