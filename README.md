@@ -15,8 +15,9 @@
   1) git pull master
   2) git checkout -b "PW2-XXXX"  
 - Поработать в ней.
-  1) git commit -m "Внятный коммит"
-  2) git push origin master
+  1) git add . (либо выборочно файлы по имени)
+  2) git commit -m "Внятный коммит"
+  3) git push origin master
 - Оформить merge request.
 - Получить аппрув от коллег, решить все треды.
 - Выкатить релиз(при необходимости сделать ребейз из свежего мастера)
